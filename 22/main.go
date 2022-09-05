@@ -1,8 +1,8 @@
 package main
 
 import (
-	"bignum"
 	"fmt"
+	"l1/22/bignum"
 )
 
 func main() {
